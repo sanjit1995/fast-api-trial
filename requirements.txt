@@ -8,7 +8,7 @@ h11==0.9.0
 mss==5.1.0
 numpy==1.18.5
 pHcalc==0.1.2
-pydantic==1.5.1
+pydantic==1.6.2
 pytz==2020.1
 scipy==1.4.1
 sqlparse==0.3.1
